@@ -1,0 +1,5 @@
+/Users/daniel/GitHub/swrhimbot/swrhimbot/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/daniel/GitHub/swrhimbot/build/swrhimbot.exe.mdb
+/Users/daniel/GitHub/swrhimbot/build/swrhimbot.exe
+/Users/daniel/GitHub/swrhimbot/swrhimbot/obj/Debug/swrhimbot.exe
+/Users/daniel/GitHub/swrhimbot/swrhimbot/obj/Debug/swrhimbot.exe.mdb
